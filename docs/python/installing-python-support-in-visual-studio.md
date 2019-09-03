@@ -79,7 +79,7 @@ ms.locfileid: "63446636"
     | **Python 本机开发工具** | 安装 C++ 编译器和其他必要组件用于开发 Python 本机扩展。 请参阅[创建适用于 Python 的 C++ 扩展](working-with-c-cpp-python-in-visual-studio.md)。 若要获取全面的 C++ 支持，还请安装“使用 C++ 的桌面开发”工作负载。 |
     | **Azure 云服务核心工具** | 提供在 Python 中开发 Azure 云服务的其他支持。 请参阅 [Azure 云服务项目](python-azure-cloud-service-project-template.md)。 |
 
-1. 安装后，安装程序会提供用于修改、启动、修复或卸载 Visual Studio 的选项。 当已安装的所有组件均可使用 Visual Studio 更新时，“修改”按钮将更改为“更新”。 （随后在下拉菜单中提供“修改”选项。）还可搜索“Visual Studio”，从 Windows “开始”菜单启动 Visual Studio 及安装程序。
+1. 安装后，安装程序会提供用于修改、启动、修复或卸载 Visual Studio 的选项。 当已安装的任何组件可使用 Visual Studio 更新时，“修改”按钮将更改为“更新”。 （随后在下拉菜单中提供“修改”选项。）还可搜索“Visual Studio”，从 Windows “开始”菜单启动 Visual Studio 及安装程序。
 
     ![通过安装程序启动、修改或卸载 Visual Studio](media/installation-vs-launch.png)
 
